@@ -30,3 +30,18 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=zcvmix&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/zcvmix/zcvmix/activity-graph-output/activity-graph.svg?radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zcvmix/zcvmix/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zcvmix/zcvmix/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zcvmix/zcvmix/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
