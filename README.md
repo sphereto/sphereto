@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 <div class="tenor-gif-embed" data-postid="9319032634691437433" data-share-method="host" data-aspect-ratio="0.79386" data-width="100%"><a href="https://tenor.com/view/chika-gif-9319032634691437433">Chika Sticker</a>from <a href="https://tenor.com/search/chika-stickers">Chika Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-—-
