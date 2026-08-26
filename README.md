@@ -1,5 +1,3 @@
-
-
 <!--
 **zcvmix/zcvmix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <div align="center">
   <img width=300 alt="Fujiwara Chika Dance" src="assets/fujiwara-chika_dance.gif">
   <br>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
   | Project             | Stack                          | Status   | What it does                                                          |
   | ------------------- | ------------------------------ | -------- | --------------------------------------------------------------------- |
-  | `Vogit`             | TypeScript, Bun, Docker, Linux | Active   | Experimental versioning and storage tool inspired by Git concepts     | -->
+  | `Project`           | TypeScript, Bun, Docker, Linux | Active   |                                                                       | -->
 
 
   <br>
