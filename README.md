@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img width=300 src="https://github.com/zcvmix/zcvmix/blob/1c2f947e121a3d5886a7dd47cf9ec30919e4cf13/assets/main.gif">
+  <img width=300 alt="Fujiwara Chika Dance" src="assets/main.gif">
 </div>
