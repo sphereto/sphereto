@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **zcvmix/zcvmix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=“center”>
-  <img width=300 src=“https://github.com/zcvmix/zcvmix/blob/2fbe98267a92795df1445aa5712efba6d4d3b4e9/assets/main.gif”>
+<div align="center">
+  <img width=300 src="https://github.com/zcvmix/zcvmix/blob/1c2f947e121a3d5886a7dd47cf9ec30919e4cf13/assets/main.gif">
 </div>
