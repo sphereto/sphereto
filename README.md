@@ -30,11 +30,10 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<br>
 
 <div align="center">
   <h1>About Me</h1>
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=zcvmix&data=followers,repositories,stars,commits&theme=viridescent">
+  <img width=600 src="https://github-widgetbox.vercel.app/api/profile?username=zcvmix&data=followers,repositories,stars,commits&theme=viridescent">
   <!-- <p>Chatgpt describe me here</p> -->
   <p>I am a Student Developer currently learning <strong>Software Development</strong> through web technologies. Currently learning HTML, CSS, and JavaScript while building projects and gradually moving toward full-stack develoment</p>
 
@@ -45,8 +44,6 @@ Here are some ideas to get you started:
   + software built to last
   - "it works"
   ```
----
-
 
   <!-- ## What I'm Working On
 
@@ -54,9 +51,7 @@ Here are some ideas to get you started:
   | ------------------- | ------------------------------ | -------- | --------------------------------------------------------------------- |
   | `Project`           | TypeScript, Bun, Docker, Linux | Active   |                                                                       | -->
 
-
-  <br>
-  <img src="https://streak-stats.demolab.com?user=zcvmix&locale=en&mode=daily&theme=OneDark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" />
+  <!-- <img src="https://streak-stats.demolab.com?user=zcvmix&locale=en&mode=daily&theme=OneDark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> -->
 </div>
 
 <br>
@@ -65,7 +60,7 @@ Here are some ideas to get you started:
 
 
 <div data-importer="techs" align="center">
-  <h1>Tech Skills</h1>
+  <h1>Tech Stack</h1>
   <h3>Frontend</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
