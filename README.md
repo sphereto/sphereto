@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=“center”>
-  <img width=300 src=“assets/main.gif”/>
+  <img width=300 src=“assets/main.gifhttps://github.com/zcvmix/zcvmix/blob/2fbe98267a92795df1445aa5712efba6d4d3b4e9/assets/main.gif”/>
 </div>
