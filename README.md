@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img width=300 alt="Fujiwara Chika Dance" src="assets/main.gif">
+  <img width=300 alt="Fujiwara Chika Dance" src="assets/fujiwara-chika_dance.gif">
   <br>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=50&duration=2500&pause=1000&color=9B7DF7&center=true&vCenter=true&random=true&width=460&height=100&lines=Howdy!+I%E2%80%99m+Sphereto!" alt="Typing SVG" /></a>
