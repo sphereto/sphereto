@@ -37,8 +37,10 @@ Here are some ideas to get you started:
   <!-- <p>Chatgpt describe me here</p> -->
   <p>I am a Student Developer currently learning <strong>Software Development</strong> through web technologies. Currently learning HTML, CSS, and JavaScript while building projects and gradually moving toward full-stack develoment</p>
 
+</div>
+
   ---
-  <h3>My Philosophy</h3>
+  <h3 align="center">My Philosophy</h3>
 
   ```diff
   + software built to last
@@ -52,7 +54,6 @@ Here are some ideas to get you started:
   | `Project`           | TypeScript, Bun, Docker, Linux | Active   |                                                                       | -->
 
   <!-- <img src="https://streak-stats.demolab.com?user=zcvmix&locale=en&mode=daily&theme=OneDark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> -->
-</div>
 
 <br>
 <br>
