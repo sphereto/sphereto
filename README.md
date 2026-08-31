@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>About Me</h1>
-  <img width=600 src="https://github-widgetbox.vercel.app/api/profile?username=zcvmix&data=followers,repositories,stars,commits&theme=viridescent">
-  <!-- <p>Chatgpt describe me here</p> -->
+  <img width=600 src="https://github-widgetbox.vercel.app/api/profile?username=sphereto&data=followers,repositories,stars,commits&theme=viridescent">
+  <!-- <p> describe myself </p> -->
   <p>I am a Student Developer currently learning <strong>Software Development</strong> through web technologies. Currently learning HTML, CSS, and JavaScript while building projects and gradually moving toward full-stack develoment</p>
 
 </div>
