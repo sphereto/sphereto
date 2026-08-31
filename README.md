@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=50&duration=2500&pause=1000&color=9B7DF7&center=true&vCenter=true&random=true&width=460&height=100&lines=Howdy!+I%E2%80%99m+Sphereto!" alt="Typing SVG" /></a>
   <br>
-  <img src="https://img.shields.io/badge/Aspiring-Software%20Developer-red?logo=github&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fzcvmix">
+  <img src="https://img.shields.io/badge/Aspiring-Software%20Developer-red?logo=github&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fsphereto">
   <br>
   <img src="https://img.shields.io/badge/Learning-Web%20Development-006400?logo=w3schools&labelColor=black">
   <br>
