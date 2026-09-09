@@ -1,3 +1,5 @@
+<h1 style="display: none;">sphereto | Student Software Engineer and Developer Portfolio</h1>
+
 <!--
 **sphereto/sphereto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
