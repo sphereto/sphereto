@@ -1,5 +1,5 @@
 <details>
-  <summary>.</summary>
+  <summary></summary>
   <h1>sphereto | Student Software Engineer and Developer Portfolio</h1>
 </details>
 
