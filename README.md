@@ -1,5 +1,5 @@
 <details>
-  <summary></summary>
+  <summary>About me</summary>
   <h1>sphereto | Student Software Engineer and Developer Portfolio</h1>
 </details>
 
@@ -26,14 +26,20 @@ Here are some ideas to get you started:
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=50&duration=2500&pause=1000&color=9B7DF7&center=true&vCenter=true&random=true&width=460&height=100&lines=Howdy!+I%E2%80%99m+Sphereto!" alt="Typing SVG" /></a>
   <br>
-  <img src="https://img.shields.io/badge/Aspiring-Software%20Engineer-red?logo=github&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fsphereto">
+  <a href="https://github.com/sphereto/">
+    <img src="https://img.shields.io/badge/Aspiring-Software%20Engineer-red?logo=github&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fsphereto">
+  </a>
   <br>
   <img src="https://img.shields.io/badge/Learning-Web%20Development-006400?logo=w3schools&labelColor=black">
   <br>
-  <img src="https://img.shields.io/badge/Discord-Message%20Me!-blue?logo=discord&labelColor=black&link=https%3A%2F%2Fdiscord.com%2Fusers%2F828424877983793162">
-  <br><br>
-[![alt](img)](link)
-  <img src="https://img.shields.io/badge/MY%20PORTFOLIO-CLICK%20HERE!-FFE5B4?style=for-the-badge&logo=deepmind&logoColor=white&labelColor=DE7E5D&link=https%3A%2F%2Fsphereto.vercel.app"
+  <a href="https://discord.com/users/828424877983793162">
+    <img src="https://img.shields.io/badge/Discord-Message%20Me!-blue?logo=discord&labelColor=black&link=https%3A%2F%2Fdiscord.com%2Fusers%2F828424877983793162">
+  </a>
+  <br>
+  <br>
+  <a href="https://sphereto.vercel.app/">
+    <img alt="Sphereto Portfolio" src="https://img.shields.io/badge/MY%20PORTFOLIO-CLICK%20HERE!-FFE5B4?style=for-the-badge&logo=deepmind&logoColor=white&labelColor=DE7E5D&link=https%3A%2F%2Fsphereto.vercel.app">
+  </a>
 </div>
 <br>
 <br>
@@ -74,7 +80,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> --!>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> -->
 
   <h3>Softwares</h3>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -102,4 +108,3 @@ Here are some ideas to get you started:
   </picture>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
-
