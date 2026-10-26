@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Discord-Message%20Me!-blue?logo=discord&labelColor=black&link=https%3A%2F%2Fdiscord.com%2Fusers%2F828424877983793162">
   <br><br>
+[![alt](img)](link)
   <img src="https://img.shields.io/badge/MY%20PORTFOLIO-CLICK%20HERE!-FFE5B4?style=for-the-badge&logo=deepmind&logoColor=white&labelColor=DE7E5D&link=https%3A%2F%2Fsphereto.vercel.app"
 </div>
 <br>
